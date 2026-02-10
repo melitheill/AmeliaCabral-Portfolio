@@ -1,0 +1,5 @@
+{
+  "name": "Amelia Cabral Portfolio",
+  "description": "A luxury copywriting portfolio website featuring service listings, testimonials, a booking calendar widget, and a contact form validated with Zod.",
+  "requestFramePermissions": []
+}

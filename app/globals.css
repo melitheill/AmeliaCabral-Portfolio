@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mantén el resto de tu código igual */
+@layer base {
+  body {
+    @apply text-text-body bg-light;
+    /* O los colores que tengas definidos */
+  }
+}
